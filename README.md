@@ -14,13 +14,13 @@ Al abrir el editor, te recibirán con una interfaz amigable que te invita a come
 
 ### Escribiendo en el Editor 🖋️
 
-![Escribiendo](enlace_a_la_imagen_de_escritura.png)
+![Escribiendo](Escribir.png)
 
 Escribe y edita tu texto de manera fluida y cómoda en el área de edición principal. La fuente, el tamaño y el estilo del texto son totalmente personalizables.
 
 ### Seleccionando Texto 🖱️
 
-![Seleccionando Texto](enlace_a_la_imagen_de_seleccion.png)
+![Seleccionando Texto](Selccionar.png)
 
 Selecciona texto con facilidad haciendo clic y arrastrando el cursor del ratón. Puedes aplicar formatos específicos o realizar operaciones en el texto seleccionado.
 
@@ -29,8 +29,11 @@ Selecciona texto con facilidad haciendo clic y arrastrando el cursor del ratón.
 Para dar un toque especial a tu texto, hemos incluido botones de formato enriquecido:
 
 - **Negritas** 🖼️: Haz clic en el botón "Negritas" para enfatizar tu texto.
+- ![Texto negrita](Negrita.png)
 - **Cursiva** 📜: Resalta partes importantes usando la cursiva.
+- ![Texto cursiva](Cursiva.png)
 - **Subrayado** 📌: Subraya elementos clave para mayor claridad.
+- ![Texto subrayado](Subrallado.png)
 
 ### Deshacer y Rehacer ↩️🔁
 
