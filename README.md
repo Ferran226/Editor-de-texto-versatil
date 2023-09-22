@@ -1,10 +1,10 @@
 # Editor de Texto Versátil con Tkinter 📝✨
 
-[![Editor de Texto](enlace_a_la_imagen_de_inicio.png)](enlace_a_la_imagen_de_inicio.png)
+
 
 ¡Bienvenido al Editor de Texto Versátil desarrollado en Python con la biblioteca Tkinter! Este editor está diseñado para simplificar tu experiencia de escritura, proporcionándote herramientas de edición intuitivas y flexibles.
 
-## Capturas de Pantalla 📸
+
 
 ### Interfaz de Inicio 🏠
 
