@@ -29,11 +29,11 @@ Selecciona texto con facilidad haciendo clic y arrastrando el cursor del ratón.
 Para dar un toque especial a tu texto, hemos incluido botones de formato enriquecido:
 
 - **Negritas** 🖼️: Haz clic en el botón "Negritas" para enfatizar tu texto.
-- ![Texto negrita](Negrita.png)
+ ![Texto negrita](Negrita.png)
 - **Cursiva** 📜: Resalta partes importantes usando la cursiva.
-- ![Texto cursiva](Cursiva.png)
+ ![Texto cursiva](Cursiva.png)
 - **Subrayado** 📌: Subraya elementos clave para mayor claridad.
-- ![Texto subrayado](Subrallado.png)
+ ![Texto subrayado](Subrallado.png)
 
 ### Deshacer y Rehacer ↩️🔁
 
@@ -42,6 +42,13 @@ Si cometes un error o deseas revertir cambios, el editor te permite deshacer y r
 ### Guardar y Abrir Archivos 💾📂
 
 Tu trabajo es valioso. Por eso, puedes guardar el contenido en un archivo para futuras ediciones y abrir archivos existentes para continuar trabajando.
+
+### Guardar
+![Guardar Texto](fotoguardar.png)
+
+### Abrir Archivos
+![Abrir Texto](fotoabrir.png)
+
 
 ## Funciones Destacadas 🚀
 
