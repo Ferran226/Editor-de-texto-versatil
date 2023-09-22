@@ -8,7 +8,7 @@
 
 ### Interfaz de Inicio 🏠
 
-![Inicio](enlace_a_la_imagen_de_inicio.png)
+![Inicio](Inicio.png)
 
 Al abrir el editor, te recibirán con una interfaz amigable que te invita a comenzar a escribir de inmediato.
 
