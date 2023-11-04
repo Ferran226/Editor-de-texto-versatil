@@ -1,4 +1,84 @@
-# Editor de Texto Versátil con Tkinter 📝✨
+# 🇺🇸 Versatile Text Editor with Tkinter 📝✨
+
+Welcome to the Versatile Text Editor developed in Python with the Tkinter library! This editor is designed to simplify your writing experience, providing you with intuitive and flexible editing tools.
+
+### Start Interface 🏠
+
+![Start](Inicio.png)
+
+Upon opening the editor, you will be greeted with a friendly interface that invites you to start writing right away.
+
+### Writing in the Editor 🖋️
+
+![Writing](Escribir.png)
+
+Write and edit your text fluidly and comfortably in the main editing area. The font, size, and style of the text are entirely customizable.
+
+### Selecting Text 🖱️
+
+![Selecting Text](Selccionar.png)
+
+Select text with ease by clicking and dragging the mouse cursor. You can apply specific formatting or perform operations on the selected text.
+
+### Applying Bold, Italic, and Underline 🖼️
+
+To add a special touch to your text, we have included rich formatting buttons:
+
+- **Bold** 🖼️: Click the "Bold" button to emphasize your text.
+ ![Bold Text](Negrita.png)
+- **Italic** 📜: Highlight important parts using italics.
+ ![Italic Text](Cursiva.png)
+- **Underline** 📌: Underline key elements for added clarity.
+ ![Underline Text](Subrallado.png)
+
+### Undo and Redo ↩️🔁
+
+If you make a mistake or want to revert changes, the editor allows you to undo and redo actions with a single click. Keep your workflow smooth!
+
+### Save and Open Files 💾📂
+
+Your work is valuable. That's why you can save the content to a file for future edits and open existing files to continue working.
+
+### Save
+![Save Text](fotoguardar.png)
+
+### Open Files
+![Open Text](fotoabrir.png)
+
+## Key Features 🚀
+
+- **Bold, Italic, and Underline:** These formatting features make your text stand out and more legible.
+
+- **Undo and Redo:** Maintain full control over your edits without worrying about accidental errors.
+
+- **Save and Open:** Your work will always be safe. Save and retrieve documents at any time.
+
+## Requirements 📦
+
+This project was developed using Python and Tkinter. Make sure you have these components installed in your development environment.
+
+## How to Use 🚀
+
+1. Clone this repository or download the files.
+
+2. Run the program using Python.
+
+3. Use the editing and formatting functions in the toolbar and enjoy efficient text editing.
+
+## Contributions 🤝
+
+We are open to contributions! If you find issues or wish to add new features, create a pull request or submit an issue. Your contribution is valuable.
+
+## License 📜
+
+This project is under the MIT License. See the `LICENSE` file for more information.
+
+I hope you enjoy using this versatile text editor to enhance your writing! 📝✨
+
+
+---
+
+# 🇪🇸 Editor de Texto Versátil con Tkinter 📝✨
 
 
 
@@ -78,4 +158,4 @@ Este proyecto se desarrolló utilizando Python y Tkinter. Asegúrate de tener in
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
 
-¡Esperamos que disfrutes utilizando este editor de texto versátil para potenciar tu escritura! 📝✨
+¡Espero que disfrutes utilizando este editor de texto versátil para potenciar tu escritura! 📝✨
